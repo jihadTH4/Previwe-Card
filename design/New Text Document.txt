@@ -1,0 +1,1 @@
+shadow-color : rbg(12, 23, 41); 
